@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39607892365",
+    "project_id": "shopping-app-ceace",
+    "storage_bucket": "shopping-app-ceace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39607892365:android:21e965afc3a394d51725c4",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZJYP0F9cfpbAXTHE0L3VX6TI0fXrPoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
